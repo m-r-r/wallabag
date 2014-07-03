@@ -299,7 +299,7 @@ msgid "Password for new user"
 msgstr "Mot de passe du nouvel utilisateur: "
 
 msgid "Send"
-msgstr "Imvoyer"
+msgstr "Envoyer"
 
 msgid "Delete account"
 msgstr "Supprimer le compte"
